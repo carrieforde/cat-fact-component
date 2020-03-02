@@ -1,6 +1,6 @@
 {
   "name": "cat-fact-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A random cat fact web component",
   "main": "index.js",
   "scripts": {
